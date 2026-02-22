@@ -36,4 +36,3 @@ The project captures:
     ```
 
 ---
-*This project was completed as part of a Web Mining lab to demonstrate proficiency in automated data extraction.*
